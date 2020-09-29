@@ -1,0 +1,41 @@
+<?php
+return[
+    'individual'=>'Individual Forms',
+    'company' =>'Please fill this form',
+    'sure'=>'Please make sure the data you enter is correct so we can contact you as soon as possible and complete the purchase',
+    'company2'=>'Companies',
+    'individual2'=>'Individual',
+    'government' =>'Government Forms',
+    'choose'=>'choose a finance transition',
+    'cash'=>'Cash',
+    'finance'=>'Finance',
+    'type'=>'type',
+    'name'=>'name',
+    'email'=>'email',
+    'phone'=>'phone',
+    'Details'=>'Details',
+    'details'=>'Details',
+    'forms'=>'Forms',
+    'message'=>'Message',
+    'city'=>'City',
+    'nationality'=>'Nationality',
+    'car_name'=>'Car Name',
+    'work_selector'=>'Work Selector',
+    'salary_transferring_bank'=>'Salary Transferring Bank',
+    'select_monthly_obligations'=>' Monthly Obligations',
+    'years_of_experience'=>'Years Of Experience',
+    'monthly_salary'=>'Monthly Salary',
+    'total_monthly_obligations'=>'Total Monthly Obligations',
+    'company_name'=>'Company Name',
+    'company_activity'=>'Company Activity',
+    'dealing_banks'=>'Dealing Banks',
+    'age_of_company'=>'Age Of Company',
+    'text'=>'Message',
+    'commercial_registration_no'=>'Commercial Registration Number',
+    'responsible_person_name'=>'Responsible Person Name',
+    'sector_name'=>'Sector Name',
+     'person_name'=>'Person Name'
+
+
+]
+?>

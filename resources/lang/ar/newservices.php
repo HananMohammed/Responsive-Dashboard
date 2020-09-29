@@ -1,0 +1,35 @@
+<?php
+return[
+    'newservice'=>'الخدمات الجديدة ',
+    'creativeservice'=>'الخدمات الإبداعية ',
+
+    'name_en'=>'الاسم باللغة الإنجليزية',
+    'name_ar'=>'الاسم باللغة العربية',
+    'createdBy'=>'المسئول',
+
+    'text_en'=>'النص باللغه الانجليزيه',
+    'text_ar'=>'النص باللغه العربيه ',
+    'images'=>'الصور',
+    'logo'=>'اللوجو',
+    'single_images'=>'single image',
+    'editservice'=>'تعديل خدمه',
+    'updateservice' =>'تعديل خدمه',
+    'uploadimage' =>'إضافة صور',
+    'words_ar' =>'الكلمات بالغه العربيه ',
+    'words_en' =>'الكلمات باللغه الانجليزيه ',
+    'services'=>'الخدمات ',
+    'addservices'=>'إضافة خدمة ',
+    'allservices'=>'جميع الخدمات ',
+    'updateservices'=>'تعديل الخدمات',
+    'addcreativeservice'=>'اضافه ',
+    'editcreativeservice'=>'تعديل',
+    'allcreativeprocedure'=>'جميع الخدمات الإبداعية',
+    'creativeprocedure'=>'إضافة خدمة إبداعية',
+    'sluginput_en'=>'sluginput_en',
+    'sluginput_ar'=>'sluginput_ar',
+    'subservice'=>'البطاقات',
+    'addsubservice'=>'أضف بطاقة',
+    'title_en'=>'العنوان  باللغه بالإنجليزية ',
+    'title_ar'=>'العنوان  باللغه بالعربية ',
+]
+?>
